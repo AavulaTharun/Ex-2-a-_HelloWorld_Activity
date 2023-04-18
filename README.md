@@ -39,6 +39,7 @@ RegisterNumber: 212221240003
 ```
 
 ## MainActivity.java:
+~~~
 package com.example.fontsize;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -124,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+~~~
 
 ## Output:
 ![android 1](https://user-images.githubusercontent.com/93427201/232662178-8dff0cca-0bb7-469b-a994-e0dc64367fbb.png)
